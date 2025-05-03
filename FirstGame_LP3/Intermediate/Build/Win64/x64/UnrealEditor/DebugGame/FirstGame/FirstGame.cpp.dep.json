@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\source\\firstgame\\firstgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\firstgameeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\firstgame\\definitions.firstgame.h",
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\source\\firstgame\\firstgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

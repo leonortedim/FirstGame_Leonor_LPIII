@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\source\\firstgame\\player\\playerex4.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\firstgameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\firstgame\\definitions.firstgame.h",
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\source\\firstgame\\player\\playerex4.h",
+            "e:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\unreal\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\unrealeditor\\inc\\firstgame\\uht\\playerex4.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

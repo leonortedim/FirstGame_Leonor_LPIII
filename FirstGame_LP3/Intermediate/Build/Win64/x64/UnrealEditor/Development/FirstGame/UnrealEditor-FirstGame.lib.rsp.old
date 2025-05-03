@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FirstGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\FirstGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\FirstGame.init.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\NPC.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\NPC_AIController.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\PlayerControllerEx4.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\PlayerEx4.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\UseInterface.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\FirstGame.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\MyClass.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\NPC.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\NPC_AIController.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\PlayerControllerEx4.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\UseInterface.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\PlayerEx4.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\Default.rc2.res"
+/OUT:"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\Development\FirstGame\UnrealEditor-FirstGame.lib"

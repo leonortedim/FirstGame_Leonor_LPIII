@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FirstGame-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\FirstGameEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\FirstGame.init.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\PlayerEx4.gen.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\FirstGame.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\MyClass.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\PlayerEx4.cpp.obj"
+"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\Default.rc2.res"
+/OUT:"E:\uni\2o ano\2o semestre\UnrealGames\FirstGame\FirstGame_LP3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\FirstGame\UnrealEditor-FirstGame-Win64-DebugGame.lib"

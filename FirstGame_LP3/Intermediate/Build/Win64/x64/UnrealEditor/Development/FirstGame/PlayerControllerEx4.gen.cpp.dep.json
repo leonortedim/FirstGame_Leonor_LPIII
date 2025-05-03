@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\unrealeditor\\inc\\firstgame\\uht\\playercontrollerex4.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\firstgameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\firstgame\\definitions.firstgame.h",
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\source\\firstgame\\player\\playercontrollerex4.h",
+            "e:\\uni\\2o ano\\2o semestre\\unrealgames\\firstgame\\firstgame_lp3\\intermediate\\build\\win64\\unrealeditor\\inc\\firstgame\\uht\\playercontrollerex4.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

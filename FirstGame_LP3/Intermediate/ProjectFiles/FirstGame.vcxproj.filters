@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstGame">
+      <UniqueIdentifier>{F7BA53D2-49D5-3875-9D57-374F8D9D0797}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstGame\FirstGame.Build.cs">
+      <Filter>Source\FirstGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstGame\FirstGame.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\FirstGame.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\MyClass.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\MyClass.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\FirstGame\Player">
+      <UniqueIdentifier>{EC041992-24D7-3043-A175-21F23DD52099}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstGame\Player\NPC.cpp">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Player\NPC.h">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Player\NPC_AIController.cpp">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Player\NPC_AIController.h">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Player\PlayerControllerEx4.cpp">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Player\PlayerControllerEx4.h">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Player\PlayerEx4.cpp">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Player\PlayerEx4.h">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Player\UseInterface.cpp">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Player\UseInterface.h">
+      <Filter>Source\FirstGame\Player</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
